@@ -1,4 +1,4 @@
-# Excel-P-L-Analytics
+# Excel P&L and Sales Analytics
 - **Project objective:** 
 
     **1.** Create a _[customer performance report] https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta_hardware_customer%20performance.pdf
