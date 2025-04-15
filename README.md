@@ -17,7 +17,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by Quarters & Months https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/p%26l%20by%20month%20%26%20quarter.pdf
 
-   **2.** Create Profit and Loss (P&L) reports by _https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta%20p%26l%20fiscal%20year%20%26%20countries.pdf
+   **2.** Create Income Statement reports by various Financial metrics_https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta%20p%26l%20fiscal%20year%20%26%20countries.pdf
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
