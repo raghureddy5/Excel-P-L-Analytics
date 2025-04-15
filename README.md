@@ -1,7 +1,7 @@
 # Excel-P-L-Analytics
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta%20p%26l%20fiscal%20year%20%26%20countries.pdf)
+    **1.** Create a _[customer performance report] https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta_hardware_customer%20performance.pdf
   
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta%20electronics%20target%20report.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
