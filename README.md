@@ -15,7 +15,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/p%26l%20by%20month%20%26%20quarter.pdf
+    **1.** Create Profit and Loss (P&L) reports by Quarters & Months https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/p%26l%20by%20month%20%26%20quarter.pdf
 
    **2.** Create Profit and Loss (P&L) reports by _https://github.com/raghureddy5/Excel-P-L-Analytics/blob/main/delta%20p%26l%20fiscal%20year%20%26%20countries.pdf
 
